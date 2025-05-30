@@ -238,3 +238,5 @@ Currently, rewards are fixed. Future improvements can integrate more nuanced cal
 
 - **Developer-Centric Design:**
 By integrating smart contract activity into the consensus process, PoCS and this reward contract align developer interests with network security, fostering a more engaged and innovative ecosystem.
+
+testing
